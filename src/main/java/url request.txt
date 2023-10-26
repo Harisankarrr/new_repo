@@ -1,0 +1,11 @@
+url request
+ hhtp request
+            url 
+          method type 
+          header
+          body
+ hhtp response
+          status code 
+          headesrs 
+          body
+          
